@@ -1,6 +1,6 @@
 {
   "name": "react-native-azuread2-expo",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A React Native module for Azure AD enpoint version 2. This module implement Azure AD authentication using pure React-Native with no others lib. require",
   "main": "lib/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "uuid": "^8.3.2"
   },
   "peerDependencies": {
-    "react-native-get-random-values": "^1.7.0",
-    "react-native": "^0.60"
+    "react-native": "^0.60",
+    "react-native-get-random-values": "^1.7.0"
   },
   "keywords": [
     "AzureAD",
