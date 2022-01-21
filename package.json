@@ -1,5 +1,5 @@
 {
-  "name": "@shedaltd/react-native-azure-ad-2",
+  "name": "react-native-azuread2-expo",
   "version": "2.0.1",
   "description": "A React Native module for Azure AD enpoint version 2. This module implement Azure AD authentication using pure React-Native with no others lib. require",
   "main": "lib/index.js",
@@ -23,22 +23,17 @@
     "Microsoft Authentication",
     "React Native Authentication"
   ],
-  "author": "HectorManuelSantos <hectormanuelsantosbautista27@gmail.com>",
-  "contributors": [
-    "maxzitron",
-    "mebinum"
-  ],
+  "author": "Hector Manuel Santos <hectormanuelsantosbautista27@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shedaltd/react-native-azure-ad-2.git"
+    "url": "git+https://github.com/hectormanuelsantos/react-native-azure-ad-2.git"
   },
   "bugs": {
-    "url": "https://github.com/shedaltd/react-native-azure-ad-2/issues"
+    "url": "https://github.com/hectormanuelsantos/react-native-azure-ad-2/issues"
   },
-  "homepage": "https://github.com/shedaltd/react-native-azure-ad-2#readme",
+  "homepage": "https://github.com/hectormanuelsantos/react-native-azure-ad-2#readme",
   "directories": {
-    "example": "example",
     "lib": "lib"
   },
   "devDependencies": {}
