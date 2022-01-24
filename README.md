@@ -106,7 +106,3 @@ export default class azureAuth extends React.Component {
 
 AppRegistry.registerComponent('azureAuth', () => azureAuth);
 ```
-
-## Example
-
-To see see an example app using the library have a look at  the [Example Project](example/README.md)
